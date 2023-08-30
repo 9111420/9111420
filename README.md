@@ -1,7 +1,32 @@
-### Hi there 👋
+<h1>Hi, I'm Jonnavan Alberto! 
+
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+
+  - [Active directory home lab](url)
+
+
+<h2>Certifications</h2>
+
+  - [Google's Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/ECPCG45UGJTE)
+  - [Google's Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/certificate/QDJEE35JQ8HM)
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**9111420/9111420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
