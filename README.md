@@ -19,6 +19,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/fillabeaner
-[linkedin]:https://linkedin.com/in/jonnavan-alberto
+[Linkedin]: https://www.linkedin.com/in/jonnavan-alberto-b4869a28a/
 
 
