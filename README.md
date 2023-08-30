@@ -12,6 +12,10 @@
 
 
 
+<h2>Capstone projects</h2>
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
